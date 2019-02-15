@@ -22,6 +22,7 @@ gem "devise_invitable",                   "~> 1.7.5"
 gem "diffy",                              "~> 3.2.1"
 gem "email_address",                      "~> 0.1.11"
 gem "faker",                              ">= 1.9.1", require: false
+gem "full-name-splitter",                 "~> 0.1.2"
 gem "gibbon",                             "~> 3.2.0"
 gem "hiredis",                            "~> 0.6.3"
 gem "inky-rb",                            "~> 1.3.7.3", require: "inky"
